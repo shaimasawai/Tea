@@ -17,7 +17,7 @@ if (ask == "yes")
  else
  
  alert (" its sad")
-
+document.write ('<h3>'+ ask + '</h3>');
 
 
 
