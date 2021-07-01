@@ -1,0 +1,34 @@
+
+
+h1 {
+  color: sandybrown
+}
+
+    p{
+      color :brown
+
+    }
+
+
+    li::marker {
+  color: seashell;
+  content: "►";
+}
+
+li{
+  color:darkgoldenrod;
+  
+  list-style: none;
+}
+
+
+    
+p{
+font-weight:bold;
+}
+body {background-color:  bisque;}
+
+img {
+  border-radius: 50%;
+}
+
