@@ -27,7 +27,6 @@
 //}
 //else
 //alert (" thanks")
-
 var result = prompt("How many words are in the paragraph?"); 
     while (result<190||result>200||result==isNaN(result)) 
     {
