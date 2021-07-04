@@ -27,7 +27,11 @@
 //}
 //else
 //alert (" thanks")
+<<<<<<< HEAD
 /]var result = prompt("How many words are in the paragraph?"); 
+=======
+var result = prompt("How many words are in the paragraph?"); 
+>>>>>>> e9d7dd6394f273a98c8d187e23ed8cd4e1c8f8f5
 function tea (){
     while (result<190||result>200||result==isNaN(result)) 
     {
