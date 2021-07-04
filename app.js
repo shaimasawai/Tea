@@ -28,13 +28,14 @@
 //else
 //alert (" thanks")
 var result = prompt("How many words are in the paragraph?"); 
+function tea (){
     while (result<190||result>200||result==isNaN(result)) 
     {
-        var result = prompt("You need to give number How many words are in the paragraph?!");
+        var result = prompt("You need to give number How many words are in the paragraph?!")
     }
   alert ("success")
 
-var ask = prompt (" what is your favorit type of tea")
+var ask = prompt (" what is your favorit type of tea");
 
   if (ask == "black tea"){
     var times= prompt ("how many time you wish to it on my page ")
@@ -45,4 +46,16 @@ var ask = prompt (" what is your favorit type of tea")
     }
 
   }
- 
+}
+tea();
+
+function teafun (typeoftea){
+var output = ''
+for (t = 0 ; t < typeoftea ; t++ )
+{
+  console.log(output);
+  output = output + " <img src= 'https://image.freepik.com/free-vector/types-tea-set-porcelain-cups-with-beverage_82574-5997.jpg' alt = 'tea' >"
+}
+return output;
+}
+document.write(teafun (tea))
