@@ -27,7 +27,7 @@
 //}
 //else
 //alert (" thanks")
-<<<<<<< HEAD
+//<<<<<<< HEAD
 //var result = prompt("How many words are in the paragraph?"); 
     //while (result<190||result>200||result==isNaN(result)) 
     //{
@@ -85,10 +85,10 @@ for (var i = 0; i < moon ; i++) {
   if (moon <= 5 && moon >= 0) { document.write('<img src="https://post.healthline.com/wp-content/uploads/2020/08/Woman-Standing-Against-Moon-732x549-thumbnail.jpg" class="center" alt="moon" width="75" height="75">') }
 }
 }
-=======
+//=======
 //<<<<<<< HEAD
 ///////]var result = prompt("How many words are in the paragraph?"); 
-=======
+//=======
 //var result = prompt("How many words are in the paragraph?"); 
 //>>>>>>> e9d7dd6394f273a98c8d187e23ed8cd4e1c8f8f5
 //function tea (){
