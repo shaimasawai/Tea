@@ -25,6 +25,7 @@ li{
     
 p{
 font-weight:bold;
+
 }
 body {background-color:  bisque;}
 
@@ -32,3 +33,18 @@ img {
   border-radius: 50%;
 }
 
+<<<<<<< HEAD
+body{
+  padding:50px ;
+}
+
+.spaceing {
+  border-style: solid;
+  padding: 200px ;
+  margin: 20px ;
+  
+}
+=======
+
+
+>>>>>>> e9d7dd6394f273a98c8d187e23ed8cd4e1c8f8f5

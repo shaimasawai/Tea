@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+language = "html"
+run = ""
 
+=======
+language = "bash"
+run = ""
+>>>>>>> e9d7dd6394f273a98c8d187e23ed8cd4e1c8f8f5
 
